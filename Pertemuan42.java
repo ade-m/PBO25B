@@ -22,5 +22,4 @@ public class Pertemuan42 {
         System.out.println("==========================================");
         System.out.println(absenBudi);
         System.out.println(absenSusan);        
-    }
 }
